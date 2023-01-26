@@ -1,0 +1,243 @@
+          *{
+          margin: 0;
+          padding: 0;
+          list-style-type: none;
+          text-decoration: none;
+          box-sizing: border-box;
+          }
+
+          body{
+          background-color: #000000;
+          }
+
+          header{ 
+          height: 100px;
+          padding: 38px 60px;
+          border-bottom: 1px solid #c3c3c3c3;
+          }
+    
+           h1 {
+          float: left;
+          font-size: 16px;
+          margin-right: 750px;
+    
+          }
+
+          header li{
+          float: left;
+          margin-left: 20px;
+          }
+
+          .mtavari a{
+          color:#ffffff;
+          }
+
+          ul li a{
+          color: #ffffff;
+          }
+
+          main{
+          height: 1000px;
+          }
+
+          .picture{
+          flex-wrap: wrap;
+          display: block;
+          display: flex;
+          width: 72%;
+          height: 270.97px;
+          justify-content: space-between;
+          margin: 50px auto;
+          margin-left: 50px;
+        
+           }
+
+           .surati1{
+           width: 200px;
+           height: 270.97px;
+           flex-wrap: wrap ;
+           display: block;
+           }
+
+          .ocdaxuti{
+          width: 35px;
+          height: 24px;
+          margin: 50px auto;
+          color: #ffffff;
+     
+          }
+
+           .pepepe {
+           width: 272px;
+           height: 24px;
+           color: #ffffff;
+           float: right;
+           display: flex;
+           flex-wrap: wrap;
+          
+           }
+
+           .konverti {
+            color: #ffffff;
+            margin-left: 1100px;
+            margin-top: -300px;
+           }
+           .konverti1 {
+            color: #ffffff;
+            margin-left: 1100px;
+            margin-top: 20px;
+         } 
+
+            .konverti2 {
+                color: #ffffff;
+                margin-left: 1100px;
+                margin-top: 20px;
+            }
+
+           .xazi3{
+           width: 100%;
+           height: 1px;
+           background-color:  #a1a1a1;
+           clear: both;
+           margin-top: -200px;
+           }
+
+           .kitxvisnishani {
+            font-size: 150px;
+            float: left;
+            color: #ffffff;
+            margin-left: 50px;
+           }
+         
+           .rog {
+            width: 5px;
+            padding-top: 40px;
+            float: left;
+            font-size: 35px;
+            color: #ffffff;
+            margin-left: 20px;
+           }
+
+            .shevuk{
+            font-size: 25px;
+            }
+
+            /* meore gverdis davaleba */
+             
+            .meore html{
+            display: flex;
+            }
+
+            .surati5{
+            margin: 30px 0 30px 35px;
+          
+            }
+  
+            .surati55{
+            width: 400px;
+            height: 540px;
+            flex-wrap: wrap ;
+            display: block;
+            }
+
+            .sameuli {
+            padding-top:  50px 0 0 50px;
+            margin-top: 10px;
+            margin-left: 500px;
+            }
+
+            .yviteli{
+            width: 500px;
+            height: 29px;
+            color: #ffffff;
+            padding: 20px;
+            margin: 40px;
+            margin-top: -590px;
+            font-weight: 500px;
+            margin-left: 10px;
+            display: flex;
+            font-size: 20px;
+            }
+
+           .fasi{
+            width: 99px;
+            height: 24px;
+            margin: 30px 0 0 30px;
+            color: #ffffff;
+           }
+           .zoma{
+            width: 216px;
+            height: 24px;
+            margin: 30px 0 0 30px;
+            color: #ffffff;
+           }
+
+           .ferebi{
+            width: 203px;
+            height: 24px;
+            margin: 30px 0 0 30px;
+            color: #ffffff;
+            border-radius: 100%;
+             
+           }
+
+           .rgoli1 {
+            width: 350px;
+            height: 26px;
+          
+          
+           }
+
+           .rgoli2{
+            width: 20px;
+            height: 20px;
+            border-radius: 50% 50%;
+            background-color: #F6B058;
+            float: left;
+            margin-left: 730px;
+            margin-top: -340px;
+          
+
+           }
+
+           .rgoli3{
+            width: 20px;
+            height: 20px;
+            border-radius: 50% 50%;
+            background-color:#3E93F6;
+            float: left;
+            margin-left: 770px;
+            margin-top: -340px;
+            
+           }  
+           
+           .rgoli4{
+            width: 20px;
+            height: 20px;
+            border-radius: 50% 50%;
+            background-color:#FF7070;
+            float: left;
+            margin-left: 810px;
+            margin-top: -340px;
+           }
+
+           .rgoli5{
+            width: 20px;
+            height: 20px;
+            border-radius: 50% 50%;
+            background-color: #E8E8E8;
+            float: left;
+            margin-left: 850px;
+            margin-top: -340px;
+           }
+          
+           .sheukvete{
+            width: 210px;
+            height: 25px;
+            margin-top: 300px;
+            margin-left: 500px;
+            color: #ffffff;
+            font-weight: 900;
+            font-size: 20px;
+           }
+       
